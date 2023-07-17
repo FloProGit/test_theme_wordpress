@@ -1,5 +1,4 @@
 <?php get_header()?>
 
-Bonjour tout le monde
-</body>
+<div class="bg-red-500">   Bonjour tout le monde <div/>
 <?php get_footer()?>
